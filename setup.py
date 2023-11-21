@@ -58,7 +58,7 @@ setup(
         "pycocotools",
         "wget",
         "tensorflow==2.12.0",
-        "totalsegmentator @ git+https://github.com/StanfordMIMI/TotalSegmentator.git",
+        "totalsegmentator @ git+https://github.com/DMcSweeney/TotalSegmentator.git",
         "totalsegmentatorv2 @ git+https://github.com/StanfordMIMI/TotalSegmentatorV2.git",
     ],
     extras_require={
