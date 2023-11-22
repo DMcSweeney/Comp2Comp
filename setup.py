@@ -38,7 +38,7 @@ setup(
     name="comp2comp",
     version=get_version(),
     author="StanfordMIMI",
-    url="https://github.com/StanfordMIMI/Comp2Comp",
+    url="https://github.com/DMcSweeney/Comp2Comp",
     description="Computed tomography to body composition.",
     packages=find_packages(exclude=("configs", "tests")),
     python_requires=">=3.9",
