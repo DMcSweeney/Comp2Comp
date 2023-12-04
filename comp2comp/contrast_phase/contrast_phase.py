@@ -85,7 +85,7 @@ class ContrastPhaseDetection(InferenceClass):
                 crop=None,
                 crop_path=crop_path,
                 task_name="total",
-                nora_tag=None,
+                nora_tag="None",
                 preview=False,
                 nr_threads_resampling=1,
                 nr_threads_saving=6,
